@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/textView2"
+        android:background="#ffffff"
+        android:textSize="15sp"
+        android:typeface="serif"
+        android:paddingStart="30dp"
+        android:paddingTop="15dp"
+        android:paddingEnd="10dp"
+<<<<<<< HEAD
+        android:text="New Text"
+        android:textAlignment="center" />
+=======
+        android:text="New Text" />
+>>>>>>> 0d66c1ab5386cf0bae91b5aec364989d2c1789db
+</LinearLayout>
